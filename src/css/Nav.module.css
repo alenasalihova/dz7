@@ -1,0 +1,8 @@
+.menuItem {
+    cursor: pointer;
+  }
+  
+  .active {
+    font-weight: bold;
+    margin-left: 15px;
+  }
